@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JaximusQ
+- 👀 I’m interested in Unity Game Development and CGI graphics
+- 🌱 I’m currently learning Unity and C#
+- 💞️ I’m looking to collaborate on something I guess
